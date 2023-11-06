@@ -9,3 +9,13 @@ article{
   padding: 20px;
   color: blue;
 }
+table {
+  color: antiquewhite;
+  
+}
+table td {
+  padding: 10px;
+}
+table tr:nth-child(odd) {background-color: grey;}
+
+table tr:nth-child(even) {background-color: rgb(53, 127, 173);}
