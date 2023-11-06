@@ -1,5 +1,5 @@
 document.write('<article>');
-document.write('<h2>Ejercicio 6</h2>');
+document.write('<h2>Ejercicio 7</h2>');
 let cantidad = parseInt(prompt('ingrese la cantida de elemntos del 1 al 50'));
 console.log(cantidad);
 if (typeof(cantidad)==='number'){
